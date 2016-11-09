@@ -1,0 +1,43 @@
+html {
+    min-height: 100%;
+  
+
+}
+
+
+body {
+  background-color: purple;
+}
+
+.header {
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+	border-bottom-style:solid;
+	border-color: white;
+	border-bottom-width: 2px;
+	min-height:100%;
+}
+
+.buttonField {
+ color: purple;
+	padding: 25px 0px 0px 15px
+  display:inline;
+  float: right;
+}
+
+.imgClass {
+
+  display: inline;
+  max-width:450px;
+  max-height:500px;
+  width: auto;
+  height: auto;
+  padding:5px;
+}
+
+.items {
+
+	width: 100%;
+
+}
